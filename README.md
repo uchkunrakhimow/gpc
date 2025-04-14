@@ -15,9 +15,9 @@ A powerful and flexible command-line tool to clone all repositories from a speci
 
 ## Prerequisites
 
-- [Git](https://git-scm.com/downloads) (version 2.0.0 or higher)
-- [GitHub CLI](https://cli.github.com/) (version 2.0.0 or higher)
-- [jq](https://stedolan.github.io/jq/download/) (version 1.6 or higher)
+- [Git](https://git-scm.com/downloads)
+- [GitHub CLI](https://cli.github.com/)
+- [jq](https://stedolan.github.io/jq/download/)
 
 ## Installation
 
