@@ -6,7 +6,7 @@ class Ghclone < Formula
   license "MIT"
 
   def install
-    bin.install "bin/ghclone.sh" => "ghclone"
+    bin.install "bin/ghclone" => "ghclone"
   end
 
   test do
